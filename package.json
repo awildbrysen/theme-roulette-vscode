@@ -2,8 +2,13 @@
   "name": "theme-roulette-vscode",
   "displayName": "a wild Theme Roulette",
   "description": "Apply a randomly selected theme.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "awildbrysen",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#F8C8DC",
+    "theme": "light"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/awildbrysen/theme-roulette-vscode.git"
