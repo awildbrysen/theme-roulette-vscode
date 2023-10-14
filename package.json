@@ -1,8 +1,13 @@
 {
-  "name": "theme-roulette",
-  "displayName": "theme-roulette",
-  "description": "",
+  "name": "theme-roulette-vscode",
+  "displayName": "a wild Theme Roulette",
+  "description": "Apply a randomly selected theme.",
   "version": "0.0.1",
+  "publisher": "awildbrysen",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/awildbrysen/theme-roulette-vscode.git"
+  },
   "engines": {
     "vscode": "^1.83.0"
   },
