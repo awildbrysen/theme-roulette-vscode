@@ -8,3 +8,6 @@ This plugin adds a `Theme Roulette` command which picks a random theme and appli
 ## Extension Settings
 
 * `themeroulette.includeDefaults`: Include the default Visual Studio Code themes when picking a random theme.
+
+Also available for: 
+* [IntelliJ](https://github.com/awildbrysen/theme-roulette-intellij)
